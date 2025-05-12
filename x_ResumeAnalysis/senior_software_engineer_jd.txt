@@ -1,0 +1,66 @@
+Senior Software Engineer
+
+Location: [City Name] (On-site position)
+Experience: 8+ years
+Employment Type: Full-time
+
+About the Role:
+We are seeking an experienced Senior Software Engineer to join our dynamic team. The ideal candidate will be responsible for designing, developing, and maintaining high-performance web applications while mentoring junior developers and contributing to architectural decisions.
+
+Key Responsibilities:
+- Design and develop scalable, high-performance web applications
+- Lead technical discussions and architectural decisions
+- Mentor junior developers and conduct code reviews
+- Collaborate with cross-functional teams to define, design, and ship new features
+- Optimize applications for maximum speed and scalability
+- Implement security and data protection measures
+- Write clean, maintainable, and efficient code
+- Participate in agile development processes
+
+Required Skills and Experience:
+- 8+ years of professional software development experience
+- Strong proficiency in JavaScript, HTML5, and CSS3
+- Extensive experience with modern frontend frameworks (React.js)
+- Expertise in Tailwind CSS for responsive design
+- Strong backend development experience with Node.js
+- Proficiency in Python programming
+- Experience with MongoDB and database design
+- Hands-on experience with AWS services (EC2, S3, Lambda, etc.)
+- Experience with CI/CD pipelines and tools
+- Strong understanding of software design patterns and principles
+- Experience with version control systems (Git)
+- Excellent problem-solving and debugging skills
+
+Preferred Qualifications:
+- Experience with microservices architecture
+- Knowledge of containerization (Docker, Kubernetes)
+- Experience with TypeScript
+- Understanding of GraphQL
+- Experience with testing frameworks (Jest, Mocha, etc.)
+- Knowledge of serverless architecture
+
+Soft Skills:
+- Strong communication and leadership abilities
+- Ability to work in a fast-paced environment
+- Excellent problem-solving skills
+- Team player with a collaborative mindset
+- Strong attention to detail
+- Ability to mentor and guide junior developers
+
+Work Environment:
+- On-site position with standard office hours
+- Collaborative team environment
+- Modern development tools and equipment
+- Professional development opportunities
+- Competitive compensation package
+
+Benefits:
+- Competitive salary
+- Health insurance
+- Paid time off
+- Professional development budget
+- Flexible work arrangements
+- Employee wellness programs
+- Regular team events and activities
+
+Note: This position requires working from the office. Remote work is not available for this role. 
