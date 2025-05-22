@@ -3,6 +3,8 @@ import os
 from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
 
+# NOTE:: TO CREATE THE VECTOR STORE (CHROMA_DB), RUN "1A_BasicPart1.py" FILE FIRST.
+
 # Define the persistent directory
 current_dir = os.path.dirname(os.path.abspath(__file__))
 persistent_directory = os.path.join(current_dir, "db", "chroma_db")

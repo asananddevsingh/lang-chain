@@ -4,9 +4,11 @@ from langchain_community.document_loaders import TextLoader
 from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
 
+# NOTE:: TO CREATE THE VECTOR STORE (CHROMA_DB), RUN "1A_BasicPart1.py" FILE FIRST.
+
 # Define the directory containing the text file and the persistent directory
-current_dir = os.path.dirname(os.path.abspath(__file__))
-file_path = os.path.join(current_dir, "documents", "lord_of_the_rings.txt")
+current_dir = os.path.dirname(os.path.abspath(__file__))    
+file_path = os.path.join(current_dir, "documents", "lord_of_the_rings.txt") 
 persistent_directory = os.path.join(current_dir, "db", "chroma_db")
 
 # Check if the Chroma vector store already exists
